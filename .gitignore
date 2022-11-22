@@ -1,0 +1,21 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Görseller
+
+*.jpg
+*.png
+img/
+
+#Videolar
+
+*.mp4
+
+#Packages
+
+#log
+*.log
